@@ -1,6 +1,6 @@
 ## Triple Peaks Library
 
-The Triple Peaks Library webpage is the first project on my Software Engineering
+The Triple Peaks Library webpage is the first project of my Software Engineering
 journey at TripleTen. It was created using HTML and CSS, based on a design brief.
 
 ## Project features
